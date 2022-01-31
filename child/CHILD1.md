@@ -1,1 +1,14 @@
 # CHILD1
+
+## OK
+[ROOT_README](/README.md)
+
+## NG
+[ROOT_README](../README.md)
+
+
+## OK
+[CHILD_README](/child/README.md)
+
+## NG
+[CHILD_README](./README.md)
